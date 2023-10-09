@@ -18,6 +18,7 @@ Mean-Average Precision: 0.3092386465454942
 
 IoU: 0.8019488283046221
 
+[Model Link](https://drive.google.com/drive/folders/1BM34dG-D4moVaOq7TWkzEpbVhALcNAId?usp=sharing)
 
 ## Best Results for Validation Dataset
 ![Image 1](results/validation/1.png)

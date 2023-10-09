@@ -49,7 +49,7 @@ if __name__ == "__main__":
     # test_x = sorted(glob("/home/ma22resch11003/CVIP/dataset/WCEBleedGen/non-bleeding/images/*"))
     # test_y = sorted(glob("/home/ma22resch11003/CVIP/dataset/WCEBleedGen/non-bleeding/annotation/*"))
 
-    test_x = sorted(glob("/home/ma22resch11003/CVIP/testdata/Auto-WCEBleedGen Challenge Test Dataset/Test Dataset 1/*"))
+    test_x = sorted(glob("/home/ma22resch11003/CVIP/testdata/Auto-WCEBleedGen Challenge Test Dataset/Test Dataset 2/*"))
     test_y = sorted(glob("/home/ma22resch11003/CVIP/dataset/WCEBleedGen/non-bleeding/annotation/*"))
     # exit()
     final_preds = []
@@ -103,4 +103,4 @@ if __name__ == "__main__":
     print("1 Classified: ", num_correct/len(test_x), num_correct)
     print("0 Classified: ", num_incorrect/len(test_x), num_incorrect)
     df = pd.DataFrame(final_preds)
-    df.csv("final_preds.csv", index=False)
+    df.to_csv("final_preds.csv", index=False)

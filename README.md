@@ -21,12 +21,13 @@ IoU: 0.8019488283046221
 
 ## Best Results for Validation Dataset
 ![Image 1](results/validation/1.png)
-![Image 2](results/validation/2.png)
-![Image 3](results/validation/3.png)
-![Image 4](results/validation/4.png)
 ![Image 5](results/validation/5.png)
+![Image 2](results/validation/2.png)
 ![Image 6](results/validation/6.png)
+![Image 3](results/validation/3.png)
 ![Image 7](results/validation/7.png)
+![Image 4](results/validation/4.png)
+
 ![Image 8](results/validation/8.png)
 ![Image 9](results/validation/9.png)
 ![Image 10](results/validation/10.png)
@@ -51,11 +52,11 @@ IoU: 0.8019488283046221
 ![Image 5](results/test/test_5.png)
 
 ## Best Results for Testing Dataset 2
-![Image 1](results/test/6.png)
-![Image 2](results/test/7.png)
-![Image 3](results/test/8.png)
-![Image 4](results/test/9.png)
-![Image 5](results/test/10.png)
+![Image 1](results/test/2_test_7.png)
+![Image 2](results/test/2_test_8.png)
+![Image 3](results/test/2_test_9.png)
+![Image 4](results/test/2_test_10.png)
+![Image 5](results/test/2_test_13.png)
 
 
 

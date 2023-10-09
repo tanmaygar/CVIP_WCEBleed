@@ -46,8 +46,8 @@ def save_bound_box_from_annotations(input_path, output_image_path, confidence):
     return bounding_boxes
         
 if __name__ == "__main__":
-    img_path = r'/home/ma22resch11003/wce_code_base/results/validation/WCE_10054.png'
-    save_bound_box_from_annotations(img_path, "/home/ma22resch11003/wce_code_base/results/validation/WCE_10054_bb.png", 0.928)
+    img_path = r'/home/ma22resch11003/wce_code_base/results/validation/WCE_10163.png'
+    save_bound_box_from_annotations(img_path, "/home/ma22resch11003/wce_code_base/results/validation/WCE_10163_bb.png", 0.996)
 
 
 # pil_img = Image.open(img_path)

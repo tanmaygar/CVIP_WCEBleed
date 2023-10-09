@@ -12,15 +12,24 @@ Recall: 0.9959
 
 F1 Score: 0.9979
 
-Average Precision:
+Average Precision: 0.36695597093683535
 
-Mean-Average Precision:
+Mean-Average Precision: 0.3092386465454942
 
-IoU:
+IoU: 0.8019488283046221
 
 
 ## Best Results for Validation Dataset
-
+![Image 1](results/validation/WCE_10019_bb.png)
+![Image 2](results/validation/WCE_10027_bb.png)
+![Image 3](results/validation/WCE_10054_bb.png)
+![Image 4](results/validation/WCE_10059_bb.png)
+![Image 5](results/validation/WCE_10091_bb.png)
+![Image 6](results/validation/WCE_10151_bb.png)
+![Image 7](results/validation/WCE_10163_bb.png)
+![Image 8](results/validation/WCE_10198_bb.png)
+![Image 9](results/validation/WCE_10248_bb.png)
+![Image 10](results/validation/WCE_10310_bb.png)
 
 ## Best Results for Testing Dataset
 

@@ -20,18 +20,32 @@ IoU: 0.8019488283046221
 
 
 ## Best Results for Validation Dataset
-![Image 1](results/validation/WCE_10019_bb.png)
-![Image 2](results/validation/WCE_10027_bb.png)
-![Image 3](results/validation/WCE_10054_bb.png)
-![Image 4](results/validation/WCE_10059_bb.png)
-![Image 5](results/validation/WCE_10091_bb.png)
-![Image 6](results/validation/WCE_10151_bb.png)
-![Image 7](results/validation/WCE_10163_bb.png)
-![Image 8](results/validation/WCE_10198_bb.png)
-![Image 9](results/validation/WCE_10248_bb.png)
-![Image 10](results/validation/WCE_10310_bb.png)
+![Image 1](results/validation/1.png)
+![Image 2](results/validation/2.png)
+![Image 3](results/validation/3.png)
+![Image 4](results/validation/4.png)
+![Image 5](results/validation/5.png)
+![Image 6](results/validation/6.png)
+![Image 7](results/validation/7.png)
+![Image 8](results/validation/8.png)
+![Image 9](results/validation/9.png)
+![Image 10](results/validation/10.png)
 
-## Best Results for Testing Dataset
+## Best Results for Testing Dataset 1
+![Image 1](results/test/1.png)
+![Image 2](results/test/2.png)
+![Image 3](results/test/3.png)
+![Image 4](results/test/4.png)
+![Image 5](results/tests/5.png)
+
+## Best Results for Testing Dataset 2
+![Image 1](results/test/6.png)
+![Image 2](results/test/7.png)
+![Image 3](results/test/8.png)
+![Image 4](results/test/9.png)
+![Image 5](results/tests/10.png)
+
+
 
 ## References
 [nnU-Net](https://www.google.com/url?q=https://www.nature.com/articles/s41592-020-01008-z&sa=D&source=docs&ust=1677235958581755&usg=AOvVaw3dWL0SrITLhCJUBiNIHCQO)

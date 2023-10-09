@@ -33,18 +33,6 @@ IoU: 0.8019488283046221
 ![Image 9](results/validation/9.png)
 ![Image 10](results/validation/10.png)
 
-
-![Image 1](results/validation/WCE_10019_bb.png)
-![Image 2](results/validation/WCE_10027_bb.png)
-![Image 3](results/validation/WCE_10054_bb.png)
-![Image 4](results/validation/WCE_10059_bb.png)
-![Image 5](results/validation/WCE_10091_bb.png)
-![Image 6](results/validation/WCE_10151_bb.png)
-![Image 7](results/validation/WCE_10163_bb.png)
-![Image 8](results/validation/WCE_10198_bb.png)
-![Image 9](results/validation/WCE_10248_bb.png)
-![Image 10](results/validation/WCE_10310_bb.png)
-
 ## Best Results for Testing Dataset 1
 ![Image 1](results/test/test_1.png)
 ![Image 2](results/test/test_2.png)
